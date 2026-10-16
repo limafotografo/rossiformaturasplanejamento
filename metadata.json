@@ -1,0 +1,6 @@
+{
+  "name": "Rossi Formaturas — Sistema Operacional",
+  "description": "Sistema de planejamento, organização e controle operacional de formaturas da Rossi Formaturas. Escalas de equipe, fotógrafos, orçamento, localização e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
